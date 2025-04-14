@@ -1,3 +1,6 @@
+5025221227 - Gavrila Nirwasita
+
+
 Pertama-tama tambahkan beberapa package kedalam `pubspec.yaml`, seperti Isar dengan cara
 ```
 dart pub add isar:^3.1.8 isar_flutter_libs:^3.1.8 --hosted-url=https://pub.isar-community.dev
